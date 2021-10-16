@@ -1,4 +1,5 @@
-### Hi there 👋
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yito0424)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yito0424&layout=compact)
 
 <!--
 **yito0424/yito0424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
